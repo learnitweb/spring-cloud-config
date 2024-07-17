@@ -3,4 +3,4 @@ build:
   
 application:
   message: Service1 application message - Prod environment
-email: learnitweb@gmail.com
+email: "{cipher}9088a6dcafbba432d10585da0c0f3c5bec65b463e57896c9b405d636d74e4ac5dff590ec172b8645492837e298155c74"
