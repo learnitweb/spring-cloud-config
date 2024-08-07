@@ -1,6 +1,11 @@
 build:
   version: 1.1
   
-application:
+service1:
   message: Service1 application message - Prod environment
-email: "{cipher}9088a6dcafbba432d10585da0c0f3c5bec65b463e57896c9b405d636d74e4ac5dff590ec172b8645492837e298155c74"
+  contactDetails:
+    name: "John"
+    email: "John@gmail.com"
+  phoneNumbers:
+    - 123456
+    - 678901
